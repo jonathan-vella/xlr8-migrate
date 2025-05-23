@@ -16,6 +16,14 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
+# Mermaid support
+head_scripts:
+  - https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js
+  
+# Custom JavaScript
+after_footer_scripts:
+  - /assets/js/mermaid-init.js
+
 # Exclude specific directories from processing
 exclude:
   - workshop-assets/
