@@ -1,0 +1,46 @@
+title: XLR8 Migrate Like A Boss
+description: This workshop guides participants through the end-to-end process of designing a secure and scalable Azure Migration project.
+# Theme settings - use the standard GitHub Pages theme approach
+remote_theme: pmarsceill/just-the-docs
+
+url: https://jonathan-vella.github.io
+baseurl: "/xlr8-migrate"
+
+# GitHub Pages specific settings
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+# Exclude specific directories from processing
+exclude:
+  - workshop-assets/
+  - "workshop-assets/**"
+  - vendor/
+  - "vendor/**"
+
+aux_links:
+  Template Repository: https://github.com/jonathan-vella/xlr8-migrate
+
+# For proper linking in the navigation
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+# Enable callouts
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
