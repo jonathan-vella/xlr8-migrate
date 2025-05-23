@@ -4,4 +4,30 @@ layout: default
 
 {{ content }}
 
-{% include mermaid.html %}
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.0.2/+esm'
+  mermaid.initialize({startOnLoad:true,theme:'neutral'})
+  await mermaid.run({querySelector:'code.language-mermaid'})
+</script>
+
+<style>
+code.language-mermaid {
+  display: flex;
+  justify-content: center;
+}
+pre:has(code.language-mermaid), code.language-mermaid {
+  background-color: transparent;
+}
+.edgeLabel {
+  font-size: 92%;
+  opacity: .95;
+  color: #111;
+  padding: 0 3px;
+}
+.node rect {
+  stroke: #214f78 !important;
+}
+.nodeLabel {
+  color: #214f78 !important;
+}
+</style>
