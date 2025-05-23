@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Refactor (Non-Technical)
+title: Refactor
 nav_order: 3
 parent: Quick Guides
 ---

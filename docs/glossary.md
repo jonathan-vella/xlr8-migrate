@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Glossary
-nav_order: 99
-parent: Root
+nav_order: 12
 ---
 
 # Glossary

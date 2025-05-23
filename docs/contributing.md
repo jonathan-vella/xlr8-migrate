@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Contributing Guide
-nav_order: 101
-parent: Root
+nav_order: 15
 ---
 
 # Contributing Guide

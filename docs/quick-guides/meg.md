@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Migration Execution Guide (MEG) (Non-Technical)
+title: Migration Execution Guide (MEG)
 nav_order: 6
 parent: Quick Guides
 ---

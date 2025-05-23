@@ -1,11 +1,14 @@
 ---
 layout: default
 title: Refactor
-nav_order: 3
-parent: Root
+nav_order: 4
+has_children: true
+permalink: /refactor/
 ---
 
-# Refactor
+# Refactor Strategy
+
+This section covers modernizing applications and services during migration to take better advantage of cloud capabilities.
 
 In software development, refactoring is the process of restructuring existing computer code—changing the factoring—without changing its external behavior. Its intent is to improve nonfunctional attributes of the software. This chapter will cover various aspects of refactoring, including:
 

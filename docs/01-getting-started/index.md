@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Getting Started
-nav_order: 1
-parent: Root
+nav_order: 2
+has_children: true
+permalink: /getting-started/
 ---
 
-# Getting Started
+# Getting Started with Azure Migration
 
-Welcome to the Getting Started guide. Here you will find the information you need to begin your journey.
+This section provides an introduction to Azure migration strategies, prerequisites, and guidance on selecting the right approach for your workloads.
 
 ## Prerequisites
 

@@ -1,0 +1,29 @@
+// Custom styles for navigation
+.site-nav {
+  padding-top: 1rem;
+}
+
+.nav-list .nav-list-item .nav-list-link {
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+}
+
+.nav-list .nav-list-item .nav-list-link.active {
+  font-weight: 600;
+  background-color: #f5f6fa;
+  border-left: 3px solid #4762f5;
+}
+
+.nav-list .nav-list-item .nav-list-expander {
+  height: 2.5rem;
+}
+
+.site-title {
+  padding: 1rem;
+}
+
+@media (min-width: 50rem) {
+  .side-bar {
+    width: 248px;
+  }
+}

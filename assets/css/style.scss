@@ -1,5 +1,9 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
 ---
+
+@import "just-the-docs";
+@import "custom";  // Import custom styles
 
 /* Custom styling for the site title */
 .site-title {

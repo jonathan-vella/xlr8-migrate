@@ -27,6 +27,29 @@ collections:
     permalink: "/:collection/:path/"
     output: true
 
+# Navigation settings 
+nav_external_links:
+  - title: Azure Documentation
+    url: https://docs.microsoft.com/azure
+    hide_icon: false
+    opens_in_new_tab: true
+
+# Navigation structure
+nav_sort: case_sensitive
+heading_anchors: true
+
+# Enable search
+search_enabled: true
+search:
+  # Split pages into sections that can be searched individually
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: true
+
 # Enable callouts
 callouts_level: quiet # or loud
 callouts:

@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Case Studies
-nav_order: 97
-parent: Root
+nav_order: 10
 ---
 
 # Case Studies & Success Stories

@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Migration Execution Guide (MEG)
-nav_order: 99
-parent: Root
+nav_order: 9
 ---
 
 # 🚀 Migration Execution Guide (MEG)
