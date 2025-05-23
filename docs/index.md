@@ -39,13 +39,13 @@ Align your migration with CAF and WAF, and apply proven design principles.
 ### [Tools](05-tools/index.md)
 Discover and use Azure migration and assessment tools.
 
-### [Quick Guides](quick-guides/index.md)
+### [Quick Guides](06-quick-guides/index.md)
 Business-focused summaries and checklists for each migration topic.
 
-### [Case Studies](case-studies.md)
+### [Case Studies](07-misc/case-studies.md)
 Explore real-world migration stories and lessons learned.
 
-### [FAQ](faq.md)
+### [FAQ](07-misc/faq.md)
 Find answers to common migration questions.
 
 ## About the Migration Journey
@@ -60,11 +60,11 @@ These sections provide a structured approach:
 
 ## Additional Resources
 
-- [Glossary](glossary.md)
-- [Troubleshooting](troubleshooting.md)
+- [Glossary](07-misc/glossary.md)
+- [Troubleshooting](07-misc/troubleshooting.md)
 - [References](references.md)
 - [Contributing Guide](contributing.md)
-- [Azure VM Baseline Landing Zone](azure-vm-baseline-landing-zone.md)
-- [Migration Execution Guide (MEG)](azure-migration-github-repo.md)
+- [Azure VM Baseline Landing Zone](07-misc/azure-vm-baseline-landing-zone.md)
+- [Migration Execution Guide (MEG)](07-misc/azure-migration-github-repo.md)
 
 *This guide is intended for learning and practical migration planning. Use the navigation menu or the links above to explore each topic in detail.*

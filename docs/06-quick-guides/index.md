@@ -3,7 +3,7 @@ layout: default
 title: Quick Guides
 nav_order: 7
 has_children: true
-permalink: quick-guides/
+permalink: 06-quick-guides/
 ---
 
 # Quick Guides for Business Leaders

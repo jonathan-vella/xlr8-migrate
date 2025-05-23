@@ -73,4 +73,4 @@ flowchart LR
 
 ---
 
-**Return to:** [Migration Tools](./05-tools/migration-tools.md) | [Strategy Selection](./01-getting-started/strategy-selection.md) | [Quick Guides Home](./quick-guides/index.md)
+**Return to:** [Migration Tools](../05-tools/migration-tools.md) | [Strategy Selection](../01-getting-started/strategy-selection.md) | [Quick Guides Home](../06-quick-guides/index.md)

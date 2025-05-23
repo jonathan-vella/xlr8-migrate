@@ -14,7 +14,7 @@ nav_order: 14
 - [Azure Security Documentation](https://learn.microsoft.com/azure/security/)
 - [Azure DevOps Documentation](https://learn.microsoft.com/azure/devops/)
 - [GitHub Pages Documentation](https://docs.github.com/pages)
-- [Azure VM Baseline Landing Zone](../azure-vm-baseline-landing-zone.md)
-- [Azure Migration GitHub Repository](../azure-migration-github-repo.md)
+- [Azure VM Baseline Landing Zone](07-misc/azure-vm-baseline-landing-zone.md)
+- [Azure Migration GitHub Repository](07-misc/azure-migration-github-repo.md)
 
 Add more references as needed for your audience.

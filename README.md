@@ -39,8 +39,8 @@ This guide provides practical, easy-to-understand guidance for migrating workloa
 - 📊 [Assessment Tools](./docs/05-tools/assessment-tools.md)
 - 🔗 [Additional Resources](./docs/05-tools/resources.md)
 
-### 📁 [Quick Guides](./docs/quick-guides/)
-- 📚 [Business & Executive Summaries for Every Topic](./docs/quick-guides/index.md)
+### 📁 [Quick Guides](./docs/06-quick-guides/)
+- 📚 [Business & Executive Summaries for Every Topic](./docs/06-quick-guides/index.md)
 
 ## 🎯 Quick Start
 
@@ -48,11 +48,11 @@ This guide provides practical, easy-to-understand guidance for migrating workloa
 2. **Choose your strategy** → [Strategy Selection](./docs/01-getting-started/strategy-selection.md)
 3. **Follow implementation guide** → [Rehost](./docs/02-rehost/) or [Refactor](./docs/03-refactor/)
 4. **Apply best practices** → [CAF/WAF Alignment](./docs/04-frameworks/)
-5. **Share with business stakeholders** → [Quick Guides](./docs/quick-guides/index.md)
+5. **Share with business stakeholders** → [Quick Guides](./docs/06-quick-guides/index.md)
 
 ## 🎓 For Different Audiences
 
-- **👔 Business Stakeholders**: Start with [Quick Guides](./docs/quick-guides/index.md) for high-level value and summaries
+- **👔 Business Stakeholders**: Start with [Quick Guides](./docs/06-quick-guides/index.md) for high-level value and summaries
 - **🧑‍💻 Technical Teams**: Use [Implementation Guides](./docs/02-rehost/implementation.md) and [Best Practices](./docs/02-rehost/best-practices.md)
 - **🏗️ Architects**: Review [Framework Alignment](./docs/04-frameworks/) and [Design Principles](./docs/04-frameworks/design-principles.md)
 

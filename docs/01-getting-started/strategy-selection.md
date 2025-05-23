@@ -272,5 +272,5 @@ Plan to review your strategy at these milestones:
 - 📦 **Chosen Rehost?** → [Rehost Overview](../02-rehost/overview.md)
 - 🔄 **Chosen Refactor?** → [Refactor Overview](../03-refactor/overview.md)
 - 🤔 **Need more planning?** → [Prerequisites & Planning](./prerequisites.md)
-- [Azure VM Baseline Landing Zone](../azure-vm-baseline-landing-zone.md)
-- [Azure Migration GitHub Repository](../azure-migration-github-repo.md)
+- [Azure VM Baseline Landing Zone](../07-misc/azure-vm-baseline-landing-zone.md)
+- [Azure Migration GitHub Repository](../07-misc/azure-migration-github-repo.md)

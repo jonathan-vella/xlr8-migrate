@@ -766,8 +766,8 @@ output "virtual_network_id" {
 - 🚀 [Implementation Guides](../02-rehost/implementation.md)
 - 💰 [Cost Optimization Strategies](../04-frameworks/waf-alignment.md#cost-optimization)
 - 🛡️ [Security Best Practices](../04-frameworks/waf-alignment.md#security)
-- [Azure VM Baseline Landing Zone](../azure-vm-baseline-landing-zone.md)
-- [Azure Migration GitHub Repository](../azure-migration-github-repo.md)
+- [Azure VM Baseline Landing Zone](../07-misc/azure-vm-baseline-landing-zone.md)
+- [Azure Migration GitHub Repository](../07-misc/azure-migration-github-repo.md)
 
 ---
 
