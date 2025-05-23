@@ -2,7 +2,6 @@
 layout: default
 title: Design Principles
 nav_order: 10
-parent: Frameworks
 ---
 
 # 🎯 Design Principles for Azure Migration
@@ -59,14 +58,23 @@ flowchart LR
 #### **Security Architecture Layers**
 
 ```mermaid
-pyramid
-    title Security Architecture
+graph TD
+    A["📱 Application Security<br/>20% - Top Layer"]
+    B["💾 Data Protection<br/>25%"]
+    C["🌐 Network Security<br/>30%"]
+    D["🔐 Identity & Access<br/>35%"]
+    E["🏗️ Infrastructure Security<br/>40% - Foundation"]
     
-    "Application Security" : 20
-    "Data Protection" : 25
-    "Network Security" : 30
-    "Identity & Access" : 35
-    "Infrastructure Security" : 40
+    A -.-> B
+    B -.-> C
+    C -.-> D
+    D -.-> E
+    
+    style A fill:#ff7675,color:#fff,stroke:#d63031,stroke-width:3px
+    style B fill:#74b9ff,color:#fff,stroke:#0984e3,stroke-width:3px
+    style C fill:#00b894,color:#fff,stroke:#00a085,stroke-width:3px
+    style D fill:#fdcb6e,color:#2d3436,stroke:#e17055,stroke-width:3px
+    style E fill:#6c5ce7,color:#fff,stroke:#5f3dc4,stroke-width:3px
 ```
 
 #### **Security Implementation Framework**
