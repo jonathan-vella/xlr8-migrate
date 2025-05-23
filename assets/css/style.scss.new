@@ -1,0 +1,12 @@
+---
+---
+
+@import "just-the-docs";
+@import "custom";  // Import custom styles from _sass directory
+
+/* Custom styling for the site title */
+.site-title {
+  font-size: 1.2rem !important;
+}
+
+/* Add any custom CSS here */

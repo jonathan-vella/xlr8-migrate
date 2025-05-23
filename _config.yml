@@ -6,6 +6,11 @@ remote_theme: pmarsceill/just-the-docs
 url: https://jonathan-vella.github.io
 baseurl: "/xlr8-migrate"
 
+# Sass/SCSS settings
+sass:
+  sass_dir: _sass
+  style: compressed
+
 # GitHub Pages specific settings
 plugins:
   - jekyll-remote-theme
@@ -33,10 +38,6 @@ nav_external_links:
     url: https://docs.microsoft.com/azure
     hide_icon: false
     opens_in_new_tab: true
-
-# Navigation structure
-nav_sort: case_sensitive
-heading_anchors: true
 
 # Enable search
 search_enabled: true
