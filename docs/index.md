@@ -7,7 +7,7 @@ permalink: /
 
 # Azure Migration Guide
 
-![Azure Logo]({{ site.baseurl }}/media/images/cloud-adoption-journey.png)
+![Azure Logo](media/images/cloud-adoption-journey.png)
 
 ## Welcome to the Azure Migration Guide
 
@@ -22,35 +22,35 @@ This documentation is your comprehensive resource for planning and executing clo
 
 ## Guide Structure
 
-This guide is organized into challenge-based sections that walk you through the migration journey:
+This guide is divided into multiple sections, each with its own overview and deep-dive content:
 
-### [Getting Started]({{ site.baseurl }}/01-getting-started/index.md)
+### [Getting Started](01-getting-started/index.md)
 Overview, prerequisites, and strategy selection for your migration project.
 
-### [Rehost]({{ site.baseurl }}/02-rehost/index.md)
+### [Rehost](02-rehost/index.md)
 "Lift-and-shift" migration approach for moving workloads to Azure with minimal changes.
 
-### [Refactor]({{ site.baseurl }}/03-refactor/index.md)
+### [Refactor](03-refactor/index.md)
 Modernizing applications to take advantage of cloud-native features and services.
 
-### [Frameworks]({{ site.baseurl }}/04-frameworks/index.md)
+### [Frameworks](04-frameworks/index.md)
 Align your migration with CAF and WAF, and apply proven design principles.
 
-### [Tools]({{ site.baseurl }}/05-tools/index.md)
+### [Tools](05-tools/index.md)
 Discover and use Azure migration and assessment tools.
 
-### [Quick Guides]({{ site.baseurl }}/quick-guides/index.md)
+### [Quick Guides](quick-guides/index.md)
 Business-focused summaries and checklists for each migration topic.
 
-### [Case Studies]({{ site.baseurl }}/case-studies.md)
+### [Case Studies](case-studies.md)
 Explore real-world migration stories and lessons learned.
 
-### [FAQ]({{ site.baseurl }}/faq.md)
+### [FAQ](faq.md)
 Find answers to common migration questions.
 
 ## About the Migration Journey
 
-Each section provides a structured approach:
+These sections provide a structured approach:
 
 1. **Understand the Business Context**: Review goals and success metrics
 2. **Define Requirements**: Identify technical and business needs
@@ -60,11 +60,11 @@ Each section provides a structured approach:
 
 ## Additional Resources
 
-- [Glossary]({{ site.baseurl }}/glossary.md)
-- [Troubleshooting]({{ site.baseurl }}/troubleshooting.md)
-- [References]({{ site.baseurl }}/references.md)
-- [Contributing Guide]({{ site.baseurl }}/contributing.md)
-- [Azure VM Baseline Landing Zone]({{ site.baseurl }}/azure-vm-baseline-landing-zone.md)
-- [Migration Execution Guide (MEG)]({{ site.baseurl }}/azure-migration-github-repo.md)
+- [Glossary](glossary.md)
+- [Troubleshooting](troubleshooting.md)
+- [References](references.md)
+- [Contributing Guide](contributing.md)
+- [Azure VM Baseline Landing Zone](azure-vm-baseline-landing-zone.md)
+- [Migration Execution Guide (MEG)](azure-migration-github-repo.md)
 
 *This guide is intended for learning and practical migration planning. Use the navigation menu or the links above to explore each topic in detail.*
