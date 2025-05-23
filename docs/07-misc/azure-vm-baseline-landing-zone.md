@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Azure VM Baseline Landing Zone
-nav_order: 8
+nav_order: 5
+parent: Miscellaneous Resources
 ---
 
 # 🏗️ Azure Virtual Machines Baseline Landing Zone

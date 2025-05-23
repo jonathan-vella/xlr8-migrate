@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Case Studies
-nav_order: 10
+nav_order: 1
+parent: Miscellaneous Resources
 ---
 
 # Case Studies & Success Stories
