@@ -2,6 +2,7 @@
 layout: default
 title: CAF Alignment
 nav_order: 8
+parent: Frameworks
 ---
 
 # 🏛️ Cloud Adoption Framework Alignment

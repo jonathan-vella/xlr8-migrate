@@ -2,6 +2,7 @@
 layout: default
 title: Non-Technical Summaries
 nav_order: 1
+parent: Root
 ---
 
 # Non-Technical Summaries

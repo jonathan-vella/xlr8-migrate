@@ -2,6 +2,7 @@
 layout: default
 title: Azure VM Baseline Landing Zone (Non-Technical)
 nav_order: 7
+parent: Quick Guides
 ---
 
 # Azure VM Baseline Landing Zone: Non-Technical Summary

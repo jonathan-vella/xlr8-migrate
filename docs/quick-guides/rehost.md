@@ -2,6 +2,7 @@
 layout: default
 title: Rehost (Non-Technical)
 nav_order: 2
+parent: Quick Guides
 ---
 
 # Rehost: Non-Technical Summary

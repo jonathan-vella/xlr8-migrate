@@ -2,6 +2,7 @@
 layout: default
 title: Rehost Implementation
 nav_order: 5
+parent: Rehost
 ---
 
 # 🚀 Rehost Implementation Guide

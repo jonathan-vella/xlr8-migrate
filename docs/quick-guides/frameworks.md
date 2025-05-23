@@ -2,6 +2,7 @@
 layout: default
 title: Frameworks (Non-Technical)
 nav_order: 4
+parent: Quick Guides
 ---
 
 # Frameworks: Non-Technical Summary

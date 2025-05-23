@@ -2,6 +2,7 @@
 layout: default
 title: Migration Overview
 nav_order: 1
+parent: Getting Started
 ---
 
 # 🎯 Migration Strategy Overview

@@ -2,6 +2,7 @@
 layout: default
 title: FAQ
 nav_order: 98
+parent: Root
 ---
 
 # Frequently Asked Questions (FAQ)

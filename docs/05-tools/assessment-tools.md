@@ -2,6 +2,7 @@
 layout: default
 title: Assessment Tools
 nav_order: 12
+parent: Tools & Resources
 ---
 
 # 🔍 Assessment Tools Guide

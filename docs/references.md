@@ -2,6 +2,7 @@
 layout: default
 title: References
 nav_order: 100
+parent: Root
 ---
 
 # References & Further Reading

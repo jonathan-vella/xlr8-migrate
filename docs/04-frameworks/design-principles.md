@@ -2,6 +2,7 @@
 layout: default
 title: Design Principles
 nav_order: 10
+parent: Frameworks
 ---
 
 # 🎯 Design Principles for Azure Migration

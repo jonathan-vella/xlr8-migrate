@@ -2,6 +2,7 @@
 layout: default
 title: Troubleshooting (Non-Technical)
 nav_order: 11
+parent: Quick Guides
 ---
 
 # Troubleshooting: Non-Technical Summary

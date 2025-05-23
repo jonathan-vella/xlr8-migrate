@@ -2,6 +2,7 @@
 layout: default
 title: Refactor Overview
 nav_order: 6
+parent: Refactor
 ---
 
 # 🔄 Refactor Strategy Overview

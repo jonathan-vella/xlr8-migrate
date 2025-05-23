@@ -2,6 +2,7 @@
 layout: default
 title: Prerequisites
 nav_order: 2
+parent: Getting Started
 ---
 
 # 📋 Prerequisites & Planning

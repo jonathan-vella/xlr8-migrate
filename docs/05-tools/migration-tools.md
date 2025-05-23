@@ -2,6 +2,7 @@
 layout: default
 title: Migration Tools
 nav_order: 11
+parent: Tools & Resources
 ---
 
 # 🛠️ Migration Tools & Technologies

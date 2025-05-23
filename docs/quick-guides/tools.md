@@ -2,6 +2,7 @@
 layout: default
 title: Tools (Non-Technical)
 nav_order: 5
+parent: Quick Guides
 ---
 
 # Tools: Non-Technical Summary

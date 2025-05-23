@@ -2,6 +2,7 @@
 layout: default
 title: WAF Alignment
 nav_order: 9
+parent: Frameworks
 ---
 
 # 🏗️ Well-Architected Framework Alignment

@@ -2,6 +2,7 @@
 layout: default
 title: Strategy Selection
 nav_order: 3
+parent: Getting Started
 ---
 
 # 🧭 Strategy Selection Guide

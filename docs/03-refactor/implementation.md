@@ -2,6 +2,7 @@
 layout: default
 title: Refactor Implementation
 nav_order: 7
+parent: Refactor
 ---
 
 # 🏗️ Refactor Implementation Guide

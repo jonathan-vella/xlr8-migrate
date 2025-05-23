@@ -2,6 +2,7 @@
 layout: default
 title: Troubleshooting
 nav_order: 96
+parent: Root
 ---
 
 # Troubleshooting Common Migration Issues
