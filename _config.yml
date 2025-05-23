@@ -33,7 +33,7 @@ head_scripts:
   
 # Custom JavaScript
 after_footer_scripts:
-  - /assets/js/mermaid-init.js
+  - assets/js/mermaid-init.js
 
 # Exclude specific directories from processing
 exclude:
@@ -54,7 +54,7 @@ collections:
 # Navigation settings 
 nav_external_links:
   - title: Azure Documentation
-    url: https://docs.microsoft.com/azure
+    url: https://learn.microsoft.com/azure
     hide_icon: false
     opens_in_new_tab: true
 
