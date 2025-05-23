@@ -42,18 +42,16 @@
 - title: Quick Guides
   url: /quick-guides/
   children:
-    - title: Getting Started
-      url: /quick-guides/getting-started/
-    - title: Rehost
-      url: /quick-guides/rehost/
-    - title: Refactor
-      url: /quick-guides/refactor/
-    - title: Frameworks
-      url: /quick-guides/frameworks/
-    - title: Tools
-      url: /quick-guides/tools/
-    - title: MEG
-      url: /quick-guides/meg/
+    - title: Migration Essentials
+      url: /quick-guides/migration-essentials/
+    - title: Migration Strategies
+      url: /quick-guides/migration-strategies/
+    - title: Migration Resources
+      url: /quick-guides/migration-resources/
+    - title: Implementation Guide
+      url: /quick-guides/implementation-guide/
+    - title: Reference Hub
+      url: /quick-guides/reference-hub/
 - title: Azure VM Baseline
   url: /azure-vm-baseline-landing-zone/
 - title: Migration Execution Guide (MEG)

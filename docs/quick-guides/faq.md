@@ -3,6 +3,7 @@ layout: default
 title: FAQ (Non-Technical)
 nav_order: 9
 parent: Quick Guides
+nav_exclude: true
 ---
 
 # FAQ: Non-Technical Summary

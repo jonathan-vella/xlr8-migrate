@@ -3,6 +3,7 @@ layout: default
 title: Getting Started
 nav_order: 1
 parent: Quick Guides
+nav_exclude: true
 ---
 
 # Getting Started: Non-Technical Summary

@@ -3,6 +3,7 @@ layout: default
 title: Rehost
 nav_order: 2
 parent: Quick Guides
+nav_exclude: true
 ---
 
 # Rehost: Non-Technical Summary

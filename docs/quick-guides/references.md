@@ -3,6 +3,7 @@ layout: default
 title: References (Non-Technical)
 nav_order: 12
 parent: Quick Guides
+nav_exclude: true
 ---
 
 # References: Non-Technical Summary

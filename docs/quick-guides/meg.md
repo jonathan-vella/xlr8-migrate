@@ -3,6 +3,7 @@ layout: default
 title: Migration Execution Guide (MEG)
 nav_order: 6
 parent: Quick Guides
+nav_exclude: true
 ---
 
 # Migration Execution Guide (MEG): Non-Technical Summary

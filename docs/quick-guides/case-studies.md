@@ -3,6 +3,7 @@ layout: default
 title: Case Studies (Non-Technical)
 nav_order: 8
 parent: Quick Guides
+nav_exclude: true
 ---
 
 # Case Studies: Non-Technical Summary

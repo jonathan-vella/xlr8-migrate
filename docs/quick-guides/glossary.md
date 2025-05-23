@@ -3,6 +3,7 @@ layout: default
 title: Glossary (Non-Technical)
 nav_order: 10
 parent: Quick Guides
+nav_exclude: true
 ---
 
 # Glossary: Non-Technical Summary

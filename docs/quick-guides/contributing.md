@@ -3,6 +3,7 @@ layout: default
 title: Contributing (Non-Technical)
 nav_order: 13
 parent: Quick Guides
+nav_exclude: true
 ---
 
 # Contributing: Non-Technical Summary

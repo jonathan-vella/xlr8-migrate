@@ -3,6 +3,7 @@ layout: default
 title: Refactor
 nav_order: 3
 parent: Quick Guides
+nav_exclude: true
 ---
 
 # Refactor: Non-Technical Summary
