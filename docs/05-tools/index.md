@@ -3,7 +3,7 @@ layout: default
 title: Tools & Resources
 nav_order: 6
 has_children: true
-permalink: /tools/
+permalink: tools/
 ---
 
 # Tools & Resources

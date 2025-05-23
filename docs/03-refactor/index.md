@@ -3,7 +3,7 @@ layout: default
 title: Refactor
 nav_order: 4
 has_children: true
-permalink: /refactor/
+permalink: refactor/
 ---
 
 # Refactor Strategy

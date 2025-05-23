@@ -6,6 +6,11 @@ remote_theme: pmarsceill/just-the-docs
 url: https://jonathan-vella.github.io
 baseurl: "/xlr8-migrate"
 
+# just-the-docs specific settings
+search_enabled: true
+aux_links_new_tab: true
+heading_anchors: true
+
 # Sass/SCSS settings
 sass:
   sass_dir: _sass
@@ -15,6 +20,12 @@ sass:
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+
+# Make sure Jekyll processes all URLs correctly with baseurl
+permalink: pretty
+relative_links:
+  enabled: true
+  collections: true
 
 # Mermaid support
 head_scripts:

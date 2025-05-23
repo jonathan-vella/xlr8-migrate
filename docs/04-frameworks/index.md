@@ -3,7 +3,7 @@ layout: default
 title: Frameworks
 nav_order: 5
 has_children: true
-permalink: /frameworks/
+permalink: frameworks/
 ---
 
 # Azure Migration Frameworks

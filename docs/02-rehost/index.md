@@ -3,7 +3,7 @@ layout: default
 title: Rehost
 nav_order: 3
 has_children: true
-permalink: /rehost/
+permalink: rehost/
 ---
 
 # Rehost Strategy

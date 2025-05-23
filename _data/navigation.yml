@@ -1,70 +1,70 @@
 - title: Home
-  url: /
+  url: 
 - title: Getting Started
-  url: /getting-started/
+  url: getting-started/
   children:
     - title: Migration Overview
-      url: /01-getting-started/migration-overview/
+      url: 01-getting-started/migration-overview/
     - title: Prerequisites & Planning
-      url: /01-getting-started/prerequisites/
+      url: 01-getting-started/prerequisites/
     - title: Strategy Selection
-      url: /01-getting-started/strategy-selection/
+      url: 01-getting-started/strategy-selection/
 - title: Rehost
-  url: /rehost/
+  url: rehost/
   children:
     - title: Rehost Overview
-      url: /02-rehost/overview/
+      url: 02-rehost/overview/
     - title: Implementation Guide
-      url: /02-rehost/implementation/
+      url: 02-rehost/implementation/
 - title: Refactor
-  url: /refactor/
+  url: refactor/
   children:
     - title: Refactor Overview
-      url: /03-refactor/overview/
+      url: 03-refactor/overview/
     - title: Implementation Guide
-      url: /03-refactor/implementation/
+      url: 03-refactor/implementation/
 - title: Frameworks
-  url: /frameworks/
+  url: frameworks/
   children:
     - title: CAF Alignment
-      url: /04-frameworks/caf-alignment/
+      url: 04-frameworks/caf-alignment/
     - title: WAF Alignment
-      url: /04-frameworks/waf-alignment/
+      url: 04-frameworks/waf-alignment/
     - title: Design Principles
-      url: /04-frameworks/design-principles/
+      url: 04-frameworks/design-principles/
 - title: Tools & Resources
-  url: /tools/
+  url: tools/
   children:
     - title: Migration Tools
-      url: /05-tools/migration-tools/
+      url: 05-tools/migration-tools/
     - title: Assessment Tools
-      url: /05-tools/assessment-tools/
+      url: 05-tools/assessment-tools/
 - title: Quick Guides
-  url: /quick-guides/
+  url: quick-guides/
   children:
     - title: Migration Essentials
-      url: /quick-guides/migration-essentials/
+      url: quick-guides/migration-essentials/
     - title: Migration Strategies
-      url: /quick-guides/migration-strategies/
+      url: quick-guides/migration-strategies/
     - title: Migration Resources
-      url: /quick-guides/migration-resources/
+      url: quick-guides/migration-resources/
     - title: Implementation Guide
-      url: /quick-guides/implementation-guide/
+      url: quick-guides/implementation-guide/
     - title: Reference Hub
-      url: /quick-guides/reference-hub/
+      url: quick-guides/reference-hub/
 - title: Azure VM Baseline
-  url: /azure-vm-baseline-landing-zone/
+  url: azure-vm-baseline-landing-zone/
 - title: Migration Execution Guide (MEG)
-  url: /azure-migration-github-repo/
+  url: azure-migration-github-repo/
 - title: Case Studies
-  url: /case-studies/
+  url: case-studies/
 - title: FAQ
-  url: /faq/
+  url: faq/
 - title: Glossary
-  url: /glossary/
+  url: glossary/
 - title: Troubleshooting
-  url: /troubleshooting/
+  url: troubleshooting/
 - title: References
-  url: /references/
+  url: references/
 - title: Contributing
-  url: /contributing/
+  url: contributing/
