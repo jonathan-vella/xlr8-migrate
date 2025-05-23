@@ -87,3 +87,5 @@ callouts:
   warning:
     title: Warning
     color: red
+
+mermaid: true
