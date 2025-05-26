@@ -26,3 +26,7 @@ Each guide includes:
 - ✅ Real-world examples and metrics
 - ✅ Timelines and resource planning guidance
 - ✅ Executive insights and expert tips
+
+---
+
+> **Dad Joke:** Why did the executive love Azure migration? Because the ROI was always in the cloud!

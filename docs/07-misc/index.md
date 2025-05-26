@@ -20,3 +20,7 @@ This section provides supplementary resources to support your Azure migration jo
 - **[Migration Execution Guide (MEG)](azure-migration-github-repo.md)**: Open-source tools and guidance for migration
 
 Each resource is designed to complement the main guide sections and provide additional context and support for your migration journey.
+
+---
+
+> **Dad Joke:** Why did the case study move to Azure? It wanted to be a cloud success story!
