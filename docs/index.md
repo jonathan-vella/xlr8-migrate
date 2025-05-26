@@ -7,7 +7,7 @@ permalink: /
 
 # Azure Migration Guide
 
-![Azure Logo](media/images/cloud-adoption-journey.png)
+![Azure Logo](media/images/xlr8-migrate.png)
 
 ## Welcome to the Azure Migration Guide
 

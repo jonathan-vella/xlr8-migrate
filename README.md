@@ -1,6 +1,13 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Azure](https://img.shields.io/badge/Azure-Migration-blue?logo=microsoft-azure)](https://azure.microsoft.com/)
+[![Docs](https://img.shields.io/badge/docs-available-brightgreen)](./docs/index.md)
+[![GitHub Copilot](https://img.shields.io/badge/AI-GitHub%20Copilot-4B8BBE?logo=github)](https://github.com/features/copilot)
+
 # 🚀 Azure Migration Guide - Rehost & Refactor
 
 **A comprehensive guide for Cloud Solutions Architects, technical teams, and business stakeholders**
+
+![Azure Logo](media/images/xlr8-migrate.png)
 
 > *Aligned with Microsoft Cloud Adoption Framework (CAF) and Well-Architected Framework (WAF)*
 
