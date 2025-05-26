@@ -61,3 +61,27 @@ This guide provides practical, easy-to-understand guidance for migrating workloa
 **📝 Last Updated**: May 2025  
 **📚 Version**: 1.0  
 **🔗 Source**: [Microsoft Cloud Adoption Framework](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/adopt/)
+
+---
+⚠️ **AI Disclosure & Disclaimer** ⚠️
+
+This repository contains content that has been collaboratively crafted by humans and AI, specifically GitHub Copilot. Think of it as pair programming, but one of the programmers never needs coffee breaks and has read the entire internet (twice).
+
+**Technical Details:**
+- **AI Assistant**: GitHub Copilot (Claude Sonnet 4 model)
+- **Human Oversight**: 100% (because even AI needs a code review)
+- **AI Contribution**: Documentation generation, content structuring, and best practices compilation
+- **Quality Assurance**: All AI-generated content has been reviewed, validated, and approved by human experts
+
+**What This Means:**
+- The migration strategies and Azure best practices are sourced from official Microsoft documentation and industry standards
+- Code examples and PowerShell scripts have been tested and validated
+- Mermaid diagrams were generated with AI assistance but follow Azure architectural patterns
+- The AI helped us write faster, not think less 🧠
+
+**Disclaimer:**
+While our AI colleague is remarkably well-informed about Azure (having consumed more documentation than humanly possible), always validate configurations in your specific environment. The AI may occasionally suggest creating a VM with "unlimited cores" or recommend migrating your entire datacenter over the weekend. Use professional judgment accordingly.
+
+**Bottom Line:** This guide represents a fusion of human expertise and AI efficiency, designed to accelerate your Azure migration journey while maintaining accuracy and reliability.
+
+---
