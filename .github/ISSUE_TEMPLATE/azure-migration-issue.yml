@@ -1,0 +1,60 @@
+name: Azure Migration Issue
+description: Report a problem, suggest an improvement, or ask a question about the Azure Migration Guide
+labels: ["triage"]
+title: "[Issue] "
+assignees: []
+body:
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Issue Type
+      options:
+        - Bug Report
+        - Documentation Improvement
+        - Feature Request
+        - Question
+      description: What type of issue are you reporting?
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: sections
+    attributes:
+      label: Section(s) Involved
+      options:
+        - label: Getting Started
+        - label: Rehost Strategy
+        - label: Refactor Strategy
+        - label: Frameworks & Design Principles
+        - label: Tools & Resources
+        - label: Quick Guides
+        - label: Miscellaneous
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Clearly describe the issue, suggestion, or question. If reporting a bug, include steps to reproduce and expected vs. actual behavior.
+    validations:
+      required: true
+
+  - type: textarea
+    id: azure_context
+    attributes:
+      label: Relevant Azure Context
+      description: |
+        - Are you following a specific Azure migration scenario (e.g., rehost, refactor)?
+        - Which Azure services/tools are involved (e.g., Azure Migrate, Azure VMs, Azure SQL)?
+        - Any relevant error messages, logs, or screenshots?
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Suggested Solution (if applicable)
+      description: If you have a proposed fix or improvement, describe it here.
+
+  - type: textarea
+    id: additional_context
+    attributes:
+      label: Additional Context
+      description: Add any other context, links to documentation, or references that may help us understand your issue.
